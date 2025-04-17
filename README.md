@@ -1,1 +1,1 @@
-# AI-Music-Assistabt
+# AI-Music-Assistant
